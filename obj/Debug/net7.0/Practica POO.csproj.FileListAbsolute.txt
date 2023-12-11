@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Escritorio\Practica POO\bin\Debug\net7.0\Practica POO.exe
+C:\Users\HP\OneDrive\Escritorio\Practica POO\bin\Debug\net7.0\Practica POO.deps.json
+C:\Users\HP\OneDrive\Escritorio\Practica POO\bin\Debug\net7.0\Practica POO.runtimeconfig.json
+C:\Users\HP\OneDrive\Escritorio\Practica POO\bin\Debug\net7.0\Practica POO.dll
+C:\Users\HP\OneDrive\Escritorio\Practica POO\bin\Debug\net7.0\Practica POO.pdb
+C:\Users\HP\OneDrive\Escritorio\Practica POO\obj\Debug\net7.0\Practica POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Escritorio\Practica POO\obj\Debug\net7.0\Practica POO.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Practica POO\obj\Debug\net7.0\Practica POO.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Escritorio\Practica POO\obj\Debug\net7.0\Practica POO.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Practica POO\obj\Debug\net7.0\Practica POO.dll
+C:\Users\HP\OneDrive\Escritorio\Practica POO\obj\Debug\net7.0\refint\Practica POO.dll
+C:\Users\HP\OneDrive\Escritorio\Practica POO\obj\Debug\net7.0\Practica POO.pdb
+C:\Users\HP\OneDrive\Escritorio\Practica POO\obj\Debug\net7.0\Practica POO.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Escritorio\Practica POO\obj\Debug\net7.0\ref\Practica POO.dll
